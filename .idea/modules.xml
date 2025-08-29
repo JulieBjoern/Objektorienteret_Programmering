@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dag1_NedarvningPoly/Dag1_NedarvningPoly.iml" filepath="$PROJECT_DIR$/Dag1_NedarvningPoly/Dag1_NedarvningPoly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag2_NedarvningPoly/Dag2_NedarvningPoly.iml" filepath="$PROJECT_DIR$/Dag2_NedarvningPoly/Dag2_NedarvningPoly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag3_InterfacesComparable/Dag3_InterfacesComparable.iml" filepath="$PROJECT_DIR$/Dag3_InterfacesComparable/Dag3_InterfacesComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag4_InterfaceOgLambda/Dag4_InterfaceOgLambda.iml" filepath="$PROJECT_DIR$/Dag4_InterfaceOgLambda/Dag4_InterfaceOgLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag5_JavaCollectionsFramework/Dag5_JavaCollectionsFramework.iml" filepath="$PROJECT_DIR$/Dag5_JavaCollectionsFramework/Dag5_JavaCollectionsFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Objektorienteret_Programmering.iml" filepath="$PROJECT_DIR$/.idea/Objektorienteret_Programmering.iml" />
+    </modules>
+  </component>
+</project>

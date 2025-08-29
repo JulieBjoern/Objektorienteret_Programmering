@@ -1,0 +1,35 @@
+package Opg3;
+
+public class Mekaniker extends Ansat {
+
+    private int svendeprøveÅr;
+    private double timeløn;
+
+    public Mekaniker(String navn, String adresse, int svendeprøveÅr, double timeløn) {
+        super(navn, adresse);
+        this.svendeprøveÅr = svendeprøveÅr;
+        this.timeløn = timeløn;
+    }
+
+    // Overload
+
+    public Mekaniker(String navn, String adresse) {
+        super(navn, adresse);
+        this.svendeprøveÅr = 2020;
+        this.timeløn = 200;
+    }
+
+
+    // Ovenstående er en smule redundant, da vi kan lave en Mekaniker uden at angive svendeprøveår og timeløn.
+    // Kan laves sådan i stedet:
+
+//    public Mekaniker(String navn, String adresse) {
+//        this(navn, adresse, 2020, 200);
+//    }
+
+
+    public double beregnLøn() {
+        return timeløn * 37;
+    }
+}
+
